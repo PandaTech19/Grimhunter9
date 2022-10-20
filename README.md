@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grimhunter9
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to be a fullstack developer
-- 📫 How to reach me sameroundead@gmail.com
+- 📫 How to reach me pandatech1999@gmail.com
 
 <!---
 Grimhunter9/Grimhunter9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
