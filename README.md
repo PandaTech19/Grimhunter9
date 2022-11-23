@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grimhunter9
+- 👋 Hi, I’m Samer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to be a fullstack developer
 - 📫 How to reach me pandatech1999@gmail.com
